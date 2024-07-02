@@ -1,0 +1,24 @@
+p{
+	color: blue;
+	font-size: 16px;
+	font-family: arial;
+	font-weight: bold;
+	text-align: center ;
+	text-align: justify;
+	text-decoration: underline;
+	line-height: 2;
+}
+/*con esto seleccionamos un parrafo  p{} */
+
+.color{
+	color: grey;
+	font-weight: bold;
+	font-style: oblique;
+	text-align: left;
+}
+/*con esto se relaciona una clase class=color */
+
+span{
+	color: red;
+}
+/* El span se usa mas para cambiar propiedades de texto dentro de cualquier linea */
